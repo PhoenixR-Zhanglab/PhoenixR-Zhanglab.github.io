@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/09/20/test1/</loc>
+    <loc>http://example.com/2023/09/20/Publication/</loc>
     
     <lastmod>2023-09-20</lastmod>
     
@@ -20,9 +20,9 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/09/16/hello-world/</loc>
+    <loc>http://example.com/2023/09/19/Contacts/</loc>
     
-    <lastmod>2023-09-16</lastmod>
+    <lastmod>2023-09-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
