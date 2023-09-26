@@ -3,11 +3,11 @@
   <title>Zhanglab</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://phoenixr-zhanglab.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://phoenixr-zhanglab.github.io/"/>
   <updated>2023-09-25T12:32:11.602Z</updated>
-  <id>http://example.com/</id>
+  <id>https://phoenixr-zhanglab.github.io/</id>
   
   <author>
     <name>Zihan Rong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>ZHANG Lab @ TMU</title>
-    <link href="http://example.com/2023/09/25/ZHANG-Lab-TMU/"/>
-    <id>http://example.com/2023/09/25/ZHANG-Lab-TMU/</id>
+    <link href="https://phoenixr-zhanglab.github.io/2023/09/25/ZHANG-Lab-TMU/"/>
+    <id>https://phoenixr-zhanglab.github.io/2023/09/25/ZHANG-Lab-TMU/</id>
     <published>2023-09-25T12:19:13.000Z</published>
     <updated>2023-09-25T12:32:11.602Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title>Publication</title>
-    <link href="http://example.com/2023/09/22/Publication/"/>
-    <id>http://example.com/2023/09/22/Publication/</id>
+    <link href="https://phoenixr-zhanglab.github.io/2023/09/22/Publication/"/>
+    <id>https://phoenixr-zhanglab.github.io/2023/09/22/Publication/</id>
     <published>2023-09-22T02:02:00.000Z</published>
     <updated>2023-09-25T13:13:52.831Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>Lab members</title>
-    <link href="http://example.com/2023/09/20/Lab%20members/"/>
-    <id>http://example.com/2023/09/20/Lab%20members/</id>
+    <link href="https://phoenixr-zhanglab.github.io/2023/09/20/Lab%20members/"/>
+    <id>https://phoenixr-zhanglab.github.io/2023/09/20/Lab%20members/</id>
     <published>2023-09-20T02:47:00.000Z</published>
     <updated>2023-09-25T12:39:37.308Z</updated>
     
@@ -85,8 +85,8 @@
   
   <entry>
     <title>Contact</title>
-    <link href="http://example.com/2023/09/19/Contacts/"/>
-    <id>http://example.com/2023/09/19/Contacts/</id>
+    <link href="https://phoenixr-zhanglab.github.io/2023/09/19/Contacts/"/>
+    <id>https://phoenixr-zhanglab.github.io/2023/09/19/Contacts/</id>
     <published>2023-09-19T03:03:00.000Z</published>
     <updated>2023-09-25T12:40:23.847Z</updated>
     
